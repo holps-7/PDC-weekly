@@ -7,7 +7,7 @@
 # Parallel Distributed Computing - Weekly lab activity archive!
 ### Coded by: [@holps-7](https://github.com/holps-7/PDC-weekly/)
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
-## Star this repo if you liked this!
+## Star this repo if you liked it!
 
 A repo for archiving all the weekly lab activities in Parallel Distributed Computing
 
